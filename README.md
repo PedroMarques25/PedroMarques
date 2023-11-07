@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Pedro Marques
-- 👀 I’m interested in Tech, Cars and Gaming, but most important, improving as a Programmer to achieve my goals!
-- 🌱 I’m currently learning C, SQL, OpenGL, Java
-- 😃 Already Learned and Polished but not too much - Assemble MIPS and Scratch
+-  Hi, I’m Pedro Marques
+-  Studying Software Engineering at UFP
+-  I’m interested in Tech, Cars and Gaming, but most importantly, improving as a Programmer to achieve my goals!
+-  I’m currently learning : C, Java, Networks(GNS), PHP, Laravel, MYSQL
+-  Programing Languages that I worked with - Assemble MIPS, Scratch, JavaScript, HTML, CSS, POSTGRESSQL and OpenGL
 
 <!---
 Pedro Marques/Pedro Marques is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
